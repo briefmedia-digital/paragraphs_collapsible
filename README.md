@@ -7,7 +7,7 @@ Improves the Paragraphs widget by applying CSS tweaks and collapsible feature
 Add the module using git modules:
 
 ```bash
-git submodule add git@github.com:AmazeeLabs/paragraphs_collapsible.git \
+git submodule add git@github.com:briefmedia-digital/paragraphs_collapsible.git \
   modules/custom/paragraphs_collapsible/
 ```
 
